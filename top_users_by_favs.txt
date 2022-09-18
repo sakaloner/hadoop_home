@@ -1,0 +1,10 @@
+#10 post_id: 8, number of answers: 8
+#9 post_id: 83, number of answers: 14
+#8 post_id: 39, number of answers: 27
+#7 post_id: 9, number of answers: 28
+#6 post_id: 37, number of answers: 34
+#5 post_id: 58, number of answers: 40
+#4 post_id: 83, number of answers: 56
+#3 post_id: 1, number of answers: 74
+#2 post_id: 83, number of answers: 88
+#1 post_id: 1, number of answers: 148
